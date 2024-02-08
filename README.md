@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samyak0512" alt="samyak0512" /></a> </p>
 
-- 🔭 I’m currently working with **Lapcompute.com**
+- 🔭 I’m currently working with **WASFA (Wasfapay.co.in)**
 
 - 🌱 I’m currently learning **Node.js and Vue.js**
 
