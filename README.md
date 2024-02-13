@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Node.js and Vue.js**
 
-- 👨‍💻 All of my projects are available at [https://samyak0512.me/](https://samyak0512.me/)
+- 👨‍💻 All of my projects are available at [https://samyak0512.github.io/website.github.io/]([https://samyak0512.me/](https://samyak0512.github.io/website.github.io/)
 
-- 📝 I regularly write articles on [https://samyak0512.me/](https://samyak0512.me/)
+- 📝 I regularly write articles on [https://samyak0512.github.io/website.github.io/]([https://samyak0512.me/](https://samyak0512.github.io/website.github.io/)
 
 - 💬 Ask me about **Frontend, Web Developing and Designing, Figma**
 
